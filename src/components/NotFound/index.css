@@ -1,0 +1,21 @@
+.img {
+  width: 400px;
+  margin-top: 50px;
+}
+
+.Notfound-light {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Notfound-dark {
+  color: white;
+}
+
+.Notfound-dark {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}

@@ -1,0 +1,21 @@
+.img {
+  width: 100px;
+  margin-top: 50px;
+}
+
+.home-light {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.h1-dark {
+  color: white;
+}
+
+.home-dark {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
